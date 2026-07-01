@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
