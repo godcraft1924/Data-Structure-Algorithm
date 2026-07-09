@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0344-reverse-string) |
@@ -94,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
