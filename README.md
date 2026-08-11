@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
