@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0344-reverse-string) |
