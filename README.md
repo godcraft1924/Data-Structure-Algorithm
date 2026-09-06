@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -116,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
