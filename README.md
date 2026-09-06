@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0342-power-of-four) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0344-reverse-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
 ## Linked List
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0342-power-of-four) |
 ## Interactive
 |  |
