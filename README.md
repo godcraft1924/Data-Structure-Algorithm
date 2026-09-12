@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0196-delete-duplicate-emails) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
