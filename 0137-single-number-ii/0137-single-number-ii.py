@@ -3,11 +3,9 @@ class Solution:
         result = 0
         for k in range(32):
             temp = 1 << k 
-            countOnes , countZeros = 0,0
+            countOnes  = 0
             for   num in nums :
-                if (num & temp ) == 0 :
-                    countZeros  += 1 
-                else:
+                if (num & temp ) != 0 :
                     countOnes += 1
             if countOnes % 3 == 1 :
                 result = result | temp
