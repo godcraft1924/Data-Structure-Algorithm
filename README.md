@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0342-power-of-four) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Interactive
 |  |
 | ------- |
