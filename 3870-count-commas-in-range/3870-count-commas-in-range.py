@@ -3,6 +3,6 @@ class Solution:
         if n/4 < 250: 
             return 0
         else: 
-            print("ss")
+            # print("ss")
             return (n-1000)+1
         
