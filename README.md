@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
