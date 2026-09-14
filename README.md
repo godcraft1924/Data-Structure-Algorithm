@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0342-power-of-four) |
+| [0836-rectangle-overlap](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0155-min-stack) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
