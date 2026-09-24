@@ -9,7 +9,7 @@ class Solution:
             head = head.next
         temp = head 
         while temp and  temp.next:
-            print(temp.val)
+            # print(temp.val)
             if temp.next.val == val :
                 temp.next = temp.next.next 
             else:
