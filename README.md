@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0796-rotate-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3136-valid-word](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3136-valid-word) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
