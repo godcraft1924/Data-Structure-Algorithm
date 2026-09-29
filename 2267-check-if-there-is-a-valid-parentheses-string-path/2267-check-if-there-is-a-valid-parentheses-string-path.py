@@ -1,10 +1,11 @@
+
+from functools import cache
 class Solution:
     def hasValidPath(self, grid: list[list[str]]) -> bool:
 
         m = len(grid) - 1
         n = len(grid[0]) - 1
-        memo = {}
-
+        @cache
         def solve(i, j, openCount):
 
             if grid[i][j] == "(":
@@ -19,25 +20,16 @@ class Solution:
 
             if openCount > remaining:
                 return False
-
             if i == m and j == n:
                 return openCount == 0
-
-            if (i, j, openCount) in memo:
-                return memo[(i, j, openCount)]
+            res = False
 
             if i + 1 <= m:
-                if solve(i + 1, j, openCount):
-                    memo[(i, j, openCount)] = True
-                    return True
+                res =  solve(i + 1, j, openCount) or res
 
-            if j + 1 <= n:
-                if solve(i, j + 1, openCount):
-                    memo[(i, j, openCount)] = True
-                    return True
-
-            memo[(i, j, openCount)] = False
-            return False
+            if j + 1 <= n and not res:
+                res=  solve(i, j + 1, openCount) or res 
+            return res
 
         if grid[0][0] == ")" or grid[m][n] == "(":
             return False
