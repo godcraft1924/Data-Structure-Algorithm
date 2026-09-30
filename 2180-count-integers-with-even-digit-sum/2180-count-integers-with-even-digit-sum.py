@@ -14,7 +14,7 @@ class Solution:
                 return False
         count = 0
         for i in range(1,num+1):
-            print(i,sumEven(i))
+            # print(i,sumEven(i))
             if sumEven(i) :
                 count +=1 
         return count    
