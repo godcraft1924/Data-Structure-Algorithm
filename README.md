@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
