@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
