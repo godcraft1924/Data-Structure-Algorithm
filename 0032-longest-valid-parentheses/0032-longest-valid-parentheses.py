@@ -3,6 +3,7 @@ class Solution:
         open = 0 
         close = 0 
         result = 0 
+        # left to  right 
         for i in s : 
             if i == "(":
                 open+=1
@@ -14,6 +15,8 @@ class Solution:
             elif close > open :
                 open, close =  0,0 
         open, close =  0,0 
+
+        # right to left 
         for i in s[::-1]:
             print(i)
             if i == "(":
