@@ -16,18 +16,11 @@ class Solution:
                         star.pop()
                     else:
                         # print("1")
-                        return False
-        if not  stack :
-            # print("1")
-            return True
-        elif not star :
-            # print("2")
-            return False 
+                        return False 
         while star and stack and stack[-1] < star[-1]:
             star.pop()
             stack.pop()
         if not stack:
-            # print("2")
             return True
         else:
             return False
