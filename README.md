@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Number Theory
 |  |
 | ------- |
@@ -332,8 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
