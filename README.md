@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
