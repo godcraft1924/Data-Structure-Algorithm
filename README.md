@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3136-valid-word](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
