@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0301-remove-invalid-parentheses) |
 ## Prefix Sum
