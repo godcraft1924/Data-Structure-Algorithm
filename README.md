@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0836-rectangle-overlap) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2409-count-days-spent-together](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2427-number-of-common-factors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2409-count-days-spent-together](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3136-valid-word](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3863-minimum-operations-to-sort-a-string) |
