@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0301-remove-invalid-parentheses) |
 ## Prefix Sum
 |  |
