@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
+| [1254-number-of-closed-islands](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -392,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
