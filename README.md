@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1254-number-of-closed-islands](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0342-power-of-four) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
 | ------- |
@@ -412,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
