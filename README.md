@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0283-move-zeroes) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
