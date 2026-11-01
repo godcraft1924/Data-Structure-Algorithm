@@ -15,11 +15,12 @@ class Solution:
         #     return dp[i]
         # return solve(0)
     #  bottom down version 
-        dp = [-1] * (len(nums)+1)
-        dp[0] = 0
-        dp[1] = nums[0]
-        for i in range(2,len(nums)+1):
-            steal = nums[i-1]+ dp[i-2]
-            skip = dp[i-1]
-            dp[i] = max(steal,skip)
-        return(dp[-1])
+        prev_2= 0
+        prev_1 = 0
+        for i in range(0,len(nums)):
+            skip = prev_1
+            steal = prev_2 + nums[i]
+            curr = max(skip,steal)
+            prev_2 = prev_1
+            prev_1 = curr
+        return((prev_1))
