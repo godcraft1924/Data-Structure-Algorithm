@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0922-sort-array-by-parity-ii) |
 | [1254-number-of-closed-islands](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0922-sort-array-by-parity-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
