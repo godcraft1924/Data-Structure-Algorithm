@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2409-count-days-spent-together](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2427-number-of-common-factors) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bracket Sequences
@@ -407,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Indexed Tree
 |  |
 | ------- |
