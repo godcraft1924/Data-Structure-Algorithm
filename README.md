@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
 |  |
 | ------- |
