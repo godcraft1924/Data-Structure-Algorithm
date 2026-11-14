@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3364-minimum-positive-sum-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting Sort
 |  |
 | ------- |
