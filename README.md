@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2409-count-days-spent-together](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2427-number-of-common-factors) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3665-twisted-mirror-path-count) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting Sort
 |  |
