@@ -8,7 +8,6 @@ class Solution:
             else:
                 even += 1 
             ans += odd 
-            print(i,odd)
         return ans%MOD
 
         
