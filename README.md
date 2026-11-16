@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3136-valid-word](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
