@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0836-rectangle-overlap) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0856-score-of-parentheses) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/godcraft1924/Data-Structure-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
